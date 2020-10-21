@@ -6,7 +6,7 @@ body, head{
     text-align: justify;
     margin-left: 30%;
     margin-right: 30%;
-    line-height: 150%;
+    
 }
 footer{
     background-color: black;
@@ -43,4 +43,7 @@ footer{
 #fin{
     text-align: center;
     margin-top: 25px;
+}
+#texto{
+    font-size: 50%;
 }
